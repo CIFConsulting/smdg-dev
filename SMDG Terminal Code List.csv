@@ -1,7 +1,7 @@
 UNLOCODE,Alternative UNLOCODEs,Terminal Code,Terminal Facility Name,Terminal Company Name,Latitude (DMS),Longitude (DMS),Latitude,Longitude,Last change,Valid from,Valid until,Terminal Website,Terminal Address,Remarks
 AEAJM,,HAJT,HUTCHISON AJMAN INTERNATIONAL TERMINAL (HAJT),HUTCHISON PORTS AJMAN,"N 25°25'18""","E 055°27'10""",25.421667,55.452778,,2022-01-19,,https://www.hutchisonportsajman.com/,"PO Box 388, Ajman, U.A.E.",
 AEJEA,,DPWJA,DP WORLD JEBEL ALI - CT1,DP WORLD JEBEL ALI,"N 24°59'32""","E 055°03'58""",24.992222,55.066111,,2012-10-05,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, U.A.E.",
-AEJEA,,DPWJ2,DP WORLD JEBEL ALI - CT2,DP WORLD JEBEL ALI,"N 25°01'20""","E 055°03'42""",25.022222,55.061667,,2015-02-05,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, U.A.E.",
+AEJEA,AEKHL,DPWJ2,DP WORLD JEBEL ALI - CT2,DP WORLD JEBEL ALI,"N 25°01'20""","E 055°03'42""",25.022222,55.061667,,2015-02-05,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, U.A.E.",
 AEJEA,,DPWJ3,DP WORLD JEBEL ALI - CT3,DP WORLD JEBEL ALI,"N 24°59'21""","E 055°03'03""",24.989167,55.050833,2020-01-03,2015-02-05,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, U.A.E.",
 AEJEA,,DPWJ4,DP WORLD JEBEL ALI - CT4,DP WORLD JEBEL ALI,"N 25°01'57""","E 055°03'06""",25.0325,55.051667,,2019-06-04,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, U.A.E.",
 AEKHL,,CSP,CSP ABU DHABI TERMINAL,COSCO SHIPPING PORTS ABU DHABI TERMINAL LLC,"N 24°49'01""","E 054°39'44""",24.816944,54.662222,2021-03-01,2020-12-01,,https://www.cspadt.ae,"CSP Abu Dhabi Terminal LLC, P.O Box 25530, Khalifa Port, Abu Dhabi, U.A.E.","Berths B07,B08,B09."
