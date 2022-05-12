@@ -241,7 +241,7 @@ DZSKI,,EPS,SKIKDA PORT,ENTREPRISE PORTUAIRE DE SKIKDA (EPS),"N 36°53'09""","E 0
 ECGYE,,CONTE,CONTECON GUAYAQUIL,CONTECON GUAYAQUIL S.A.,"S 02°17'00""","W 079°54'06""",-2.283333,-79.901667,,31/05/2004,,https://www.cgsa.com.ec/en/home/,"Av. De la Marina, Puerto Libertador Simón Bolívar, Guayaquil 090112, Ecuador",
 ECGYE,,BANA,TERMINAL BANANAPUERTO,NAPORTEC S.A.,"S 02°15'11""","W 079°55'37""",-2.253056,-79.926944,,31/05/2004,,http://www.camae.org/puerto/naportec-bananapuerto/,"Av.52 y Av. De los Angeles Via Perimetral, Guayaquil 090209, Ecuador",
 ECGYE,,FERPOR,TERMINAL PORTUARIO FERTISA,"FERTISA FERTILIZANTES, TERMINALES I SERVICIOS S.A.","S 02°15'18""","W 079°54'34""",-2.255,-79.909444,,09/11/2016,,https://www.terminalfertisa.com,,
-ECGYE,,TPG,TPG - TERMINAL PORTUARIO GUAYAQUIL (INARPI),TERMINAL PORTUARIO DE GUAYAQUIL,"S 02°14'46""","W 079°55'45""",-2.246111,-79.929167,,31/05/2004,,https://www.saam.com/en/port-terminals/guayaquil-port-terminal-tpg/,,
+ECGYE,ECPBO,TPG,TPG - TERMINAL PORTUARIO GUAYAQUIL (INARPI),TERMINAL PORTUARIO DE GUAYAQUIL,"S 02°14'46""","W 079°55'45""",-2.246111,-79.929167,,31/05/2004,,https://www.saam.com/en/port-terminals/guayaquil-port-terminal-tpg/,,
 ECPBO,,ECPBO,YILPORT TERMINAL PUERTO BOLIVAR,YILPORT HOLDING INC.,"S 03°15'55""","W 080°00'01""",-3.265278,-80.000278,,19/02/2018,,http://www.puertobolivar.com,,
 ECPSJ,,DPWPSJ,DP WORLD POSORJA,DP WORLD,"S 02°41'32""","W 080°14'50""",-2.692222,-80.247222,01/05/2020,04/06/2019,,https://www.dpworldposorja.com.ec,"Edif. Trade Building, PB, Guayaquil",
 EEMUG,,TKM,TK MUUGA CONTAINER TERMINAL,HHLA TK ESTONIA,"N 59°29'30""","E 024°58'04""",59.491667,24.967778,29/02/2020,07/04/2015,,http://www.tk.ee/welcome_eng.html,"Veose 16, 74115 Maardu, Estonia",
